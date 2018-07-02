@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Building
+  - LadeburgEntranceTwo
+  - LadeburgEntranceOne
+  - LadeburgControlRoom
+  - Inside
+  - Outside
+  - Viewpoint
+  - PermTitle
+  - Commands Handler
+  - Hide Commands
+  - Show Commands
+  - Exterior
+  - Interior
+  - mainMenuObject
+  - Room
+  - Hallway
+  - Menu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Spatial Mapping
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
